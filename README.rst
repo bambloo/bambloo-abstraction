@@ -1,10 +1,10 @@
-Bambloo Physics
+Bambloo Abstraction
 ***
 
 Introduction
 ============
 
-This is a repo for my learning of physics.
+This is a repo for my own abstraction of real world.
 
 License
 =======
